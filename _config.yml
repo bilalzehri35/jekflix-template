@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: The Margalla Today
+title: The Margalla Today | Premium Newspaper of Islamabad
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -9,7 +9,7 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: themargallatoday@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -38,7 +38,7 @@ medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
@@ -46,7 +46,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "bilalzehri35.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
